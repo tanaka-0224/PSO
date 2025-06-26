@@ -2,6 +2,9 @@
 PS C:\Users\maedalab19a\Java> javac pso\*.java pso\core\*.java pso\model\*.java pso\util\*.java
 PS C:\Users\maedalab19a\Java> java -cp . pso.Main
 
+(base) tanakarikuto@tanakarikuninnoMacBook-Air pso % javac pso/*.java pso/core/*.java pso/model/*.java pso/util/*.java
+(base) tanakarikuto@tanakarikuninnoMacBook-Air pso % java -cp . pso.Main
+
 ディレクトリ構成図
 pso-java/
 pso/
