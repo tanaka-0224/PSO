@@ -1,7 +1,6 @@
 package pso.model;
 
 import pso.core.Velocity;
-import pso.model.Position;
 
 public class Particle {
     public Position position;
