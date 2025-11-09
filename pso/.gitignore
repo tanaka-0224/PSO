@@ -1,4 +1,4 @@
 *.class
-.DS_Store# バイナリ・ビルドファイルを無視
+*.DS_Store
 *.class
 *.jar
